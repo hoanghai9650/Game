@@ -1,0 +1,1 @@
+export const getListGameSelector = state => state.gameReducer.listGame
